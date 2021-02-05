@@ -4,6 +4,10 @@
 import json
 import random
 
+"""
+This file provides function to read data from files, process them and print out.
+"""
+
 def message(character, quote):
 	""" Format a message """
 	n_character = character.capitalize()
